@@ -89,7 +89,7 @@ export default function (props) {
 
                     <textarea className="form-control" value={text} style= {{
                      
-                     backgroundColor :props.mode==='dark'?'#001902':'white',
+                     backgroundColor :props.mode==='dark'?'#00060c':'white',
 
                      color :props.mode==='dark'?'white':'black'
 
